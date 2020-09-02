@@ -106,6 +106,16 @@
       "quoteId": 14,
       "createdAt": 1599001608057,
       "id": 16
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1599013368887,
+      "id": 17
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1599013369773,
+      "id": 18
     }
   ]
 }
